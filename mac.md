@@ -1,5 +1,5 @@
 My favorite:
-
+```
 ⌘ + Q = Quit
 ⌘ + W = Close window
 ⌘ + O = Open a file in your application
@@ -26,9 +26,9 @@ My favorite:
 ⌘ + Up Arrow = Go to previous folder in hierarchy
 ⌘ + Down Arrow = Open folder of file in Finder
 ⌘ + Delete = Move item to Trash
-
+```
 Advanced: 
-
+```
 ⌘ + ⇧ + H = Go to Home folder
 ⌘ + ⇧ + D = Go to Desktop
 ⌘ + ⇧+ 3 = Take fullscreen picture
@@ -36,5 +36,5 @@ Advanced:
 ⌘ + ⇧ + 4 + Space = Take screenshot of window or menu
 ⌥ + ⌘ + Escape = Bring up Force Quit window
 ⌘ + ⌥ + T = Show hide Finder’s toolbar
-
+```
 From http://www.danrodney.com/mac/
