@@ -37,4 +37,4 @@ Advanced:
 ⌥ + ⌘ + Escape = Bring up Force Quit window
 ⌘ + ⌥ + T = Show hide Finder’s toolbar
 ```
-From http://www.danrodney.com/mac/
+Ref: http://www.danrodney.com/mac/
