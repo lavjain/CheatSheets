@@ -6,3 +6,6 @@ skopeo inspect docker://docker.io/ubuntu@sha256:d5a6519d9f048100123c568eb83f7ef5
 
 skopeo --override-os linux --insecure-policy copy docker://docker.io/ubuntu oci:ubuntu2 --dest-shared-blob-dir blobs
 ```
+
+## Podman/Buildah
+* https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
