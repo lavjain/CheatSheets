@@ -1,5 +1,5 @@
 ## Java Generics Cheatsheet
-http://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet.png
+https://www.jrebel.com/blog/java-generics-cheat-sheet
 
 ## Java Collections Cheatsheet
 http://files.zeroturnaround.com/pdf/zt_java_collections_cheat_sheet.pdf
