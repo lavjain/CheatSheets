@@ -8,3 +8,10 @@ http://stackoverflow.com/questions/18135451/what-is-the-difference-between-var-v
 https://www.git-tower.com/blog/command-line-cheat-sheet/
 
 SED Cheatsheet - https://gist.github.com/un33k/1162378
+
+Rsync - https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+```
+# rsync hidden files from remote host
+rsync -avzP 10.78.203.183:/root/.[^.]* .
+```
+        
