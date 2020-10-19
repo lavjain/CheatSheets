@@ -1,6 +1,3 @@
-#Git Commands Cheatsheet
-http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf
-https://www.git-tower.com/blog/git-cheat-sheet/
 
 #Java Generics Cheatsheet
 http://zeroturnaround.com/wp-content/uploads/2016/12/Java-Generics-cheat-sheet.png

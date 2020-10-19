@@ -1,4 +1,4 @@
-My favorite:
+MAC keyboard shortcuts:
 ```
 ⌘ + Q = Quit
 ⌘ + W = Close window
